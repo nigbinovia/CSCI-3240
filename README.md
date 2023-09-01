@@ -1,5 +1,5 @@
 # CSCI-3240
-This repository includes all the assignments I completed in CSCI 3240 - Introduction to Computer Systems.
+This repository includes all the assignments I completed in CSCI 3240 - Introduction to Computer Systems (Summer 2023).
 
 The following directories include:
 
