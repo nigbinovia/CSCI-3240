@@ -7,7 +7,7 @@ labs - TBC
 
 project 1 - TBC
 
-project 2 - TBC
+project 2 - this program is the C conversion of all the given mystery functions originally written in assembly code
 
 project 3 - TBC
 
